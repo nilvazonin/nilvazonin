@@ -2,8 +2,8 @@
 
 - 👋 Olá, meu nome é @nilvazonin
 - 👀 Meu email de contato é nilva.zonin@escola.pr.gov.br...
-- 🌱  Eu estou interessada em programar novas linguagens.
-- 💞️ Eu estou aprendendo a programar recentemente a linguagem de javasScript e Scratch...
+- 🌱  Sou professora do colegio Estadual de Renascença
+- 💞️ Leciono a disciplina de Pensamento Computacional...
 - 
 
 <!---
